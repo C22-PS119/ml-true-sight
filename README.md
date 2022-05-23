@@ -1,6 +1,6 @@
 # TrueSight ML Project Documentation
 ## Project Overview
-This repository contains all ML related files. The Main ML model Created using IndoBERT as base model and use transfer learning to create News Credibility Prediction. You can access the notebook file that we use to train our model in this repository [[Train Model]News Prediction with indoBert-base-p1.ipynb](https://colab.research.google.com/drive/1SSiVNF4Cw7gVSxE_mvvWydD7L-RfmVDL?authuser=1#scrollTo=0e2f542a)
+This repository contains all ML related files. The Main ML model Created using IndoBERT as base model and use transfer learning to create News Credibility Prediction. You can access the notebook file that we use to train our model in this repository [[Train Model]News Prediction with indoBert-base-p1.ipynb](https://github.com/C22-PS119/ml-true-sight/blob/main/%5BTrain_Model%5DNews_Prediction_with_indoBert_base_p1.ipynb) and here's the [Example](https://github.com/C22-PS119/ml-true-sight/blob/main/%5BTrain_Model%5DNews_Prediction_with_indoBert_base_p1.ipynb) of loading saved model
 
 ## News Credibility Prediction Model
 ### Training Recap
