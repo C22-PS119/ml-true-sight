@@ -15,3 +15,6 @@ We've tried to build our model with or without transfer learning, and using diff
 | Methods   | Endpoint API                              | Usage                                         |
 |-----------|-------------------------------------------|-----------------------------------------------|
 | GET       | /api/predict                              | Get prediction value from a sequence of text  |
+
+# References
+indobenchmark/indobert-base-p1 - https://github.com/IndoNLP/indonlu
