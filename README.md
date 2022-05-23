@@ -8,8 +8,8 @@ We've tried to build our model with or without transfer learning, and using diff
 | Transfer Learning | Train Accuracy |  Validation Accuracy  | Datasets | 
 | --- | --- | --- | --- |
 | None | 99.4 | 78.76 | 4821 Indonesia Dataset |
-| indobenchmark/indobert-base-p1 | 98.78 | 83.89 | 4851 Indonesia Dataset |
-| indobenchmark/indobert-base-p1 | 99.58 | 87.04 | 7444 Indonesia Dataset |
+| indobenchmark/indobert-base-p1 | 98.78 | 83.89 | 4851 Indonesia Datasets |
+| indobenchmark/indobert-base-p1 | 99.58 | 87.04 | 7444 Indonesia Datasets |
 
 ### API from this model
 | Methods   | Endpoint API                              | Usage                                         |
